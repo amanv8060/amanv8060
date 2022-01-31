@@ -23,7 +23,7 @@ Started programming in my school as a part of curriculam, now I am trying to mak
 
 ### What I am up to right now 👨‍💻 
 
-Currently working as a Mobile Development Intern [Machaao](https://messenggerx.io/).  
+Currently working as a Software Engineer at [Brandie](https://brandie.io/).  
 
 ### What I am currently learning 😁
 
