@@ -2,8 +2,6 @@
 
 I am currently CSE junior at [KIIT University](https://kiit.ac.in/)
 
-Started programming in my school as a part of curriculam, now I am trying to make a career out of it.
-
 <p align="center">
   
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
